@@ -54,11 +54,23 @@ All models are self-contained within the Jupyter Notebook (`Neuroanalysis.ipynb`
 
 ```bash
 # Clone the repository
-git clone [https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git](https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git)
+git clone [https://github.com/mrshashank11332-eng/computational-neuroscience-models.git](https://github.com/mrshashank11332-eng/computational-neuroscience-models.git)
 
 # Install dependencies if needed
 pip install numpy matplotlib jupyter
 
 # Launch Jupyter Notebook
 jupyter notebook Neuroanalysis.ipynb
+```
+## Future Roadmap 
+* **Dynamic Synapses:** Implementing alpha functions and exponential decay for realistic synaptic currents (I_syn).
+* 
+* **Coupled E-I Networks:** Building small network architectures to study synchronization and rhythm generation.
+##👤 Author
+**Shashank Verma**
+**BS-MS Dual Degree Student | IISER Pune**
+**Focus: Computational Neuroscience & Non-linear Dynamical Systems**
+
+
+
 
