@@ -69,9 +69,9 @@ jupyter notebook Neuroanalysis.ipynb
   
 ## Author
 
-**Shashank Verma**
-**BS-MS Dual Degree Student | IISER Pune**
-**Focus: Computational Neuroscience & Non-linear Dynamical Systems**
+* **Shashank Verma**
+* **BS-MS Dual Degree Student | IISER Pune**
+* **Focus: Computational Neuroscience & Non-linear Dynamical Systems**
 
 
 
