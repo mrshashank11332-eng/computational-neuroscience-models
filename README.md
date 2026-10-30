@@ -64,9 +64,11 @@ jupyter notebook Neuroanalysis.ipynb
 ```
 ## Future Roadmap 
 * **Dynamic Synapses:** Implementing alpha functions and exponential decay for realistic synaptic currents (I_syn).
-* 
+   
 * **Coupled E-I Networks:** Building small network architectures to study synchronization and rhythm generation.
-##👤 Author
+  
+## Author
+
 **Shashank Verma**
 **BS-MS Dual Degree Student | IISER Pune**
 **Focus: Computational Neuroscience & Non-linear Dynamical Systems**
